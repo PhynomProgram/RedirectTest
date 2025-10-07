@@ -8,7 +8,7 @@ This repository holds the files to a simple test: test the reditect functionalit
 
 How does this work? Simple!
 
-Note: all files necessary (which will essentially by 3) are included to test this functionality.
+Note: all files necessary (which will essentially be 3) are included to test this functionality.
 
 An HTML form that contains two form fields is sent via the POST method to a php file defined in the action. However, a redirect is also specified in the opening php script that conditionally executes when the form is submitted. 
 
